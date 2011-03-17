@@ -1,0 +1,5 @@
+name: MultiVerse-SPLike
+main: com.onarandombox.MultiVerseSPLike.MultiVerseSPLike
+authors: ['Rigby']
+version: 2.0
+commands:
